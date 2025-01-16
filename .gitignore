@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+
+# Python
+.venv/
+__pycache__/
+
+# Build
+dist/
+build/
+
+# macOS
+.DS_Store
